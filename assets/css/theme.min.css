@@ -20518,7 +20518,7 @@ input[type=number] {
 }
 
 .card table tr th {
-    font-weight: 400
+    font-weight: 400;
 }
 
 .card-footer {
